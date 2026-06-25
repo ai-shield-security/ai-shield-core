@@ -25,7 +25,7 @@ Currently developing the core engine to protect decentralized applications (dApp
 
 If you are a developer, auditor, or Web3 enthusiast looking to support the future of AI-driven cybersecurity, you can track our updates or support development directly:
 
-* **X / Twitter:** Coming Soon
+* **X / Twitter:** @AIShieldSec
 * **Official Website:** Coming Soon
 
 💰 **Developer Contribution & Support Wallet (SOL):**
