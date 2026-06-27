@@ -1,0 +1,7 @@
+JSON
+{
+  "shield_mode": "aggressive",
+  "ai_analysis_threshold": 0.85,
+  "rate_limiting": true,
+  "web3_rpc_protection": "enabled"
+}
